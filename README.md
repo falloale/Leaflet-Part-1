@@ -39,3 +39,6 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 - Create a legend that will provide context for your map data.
 
 - Your visualization should look something like the preceding map.
+
+### Links: 
+USGS GeoJSON FeedLinks:https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php 
